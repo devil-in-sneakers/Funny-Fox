@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{3C178E10-21FA-33BB-C8A2-EF12E5424726}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MouseLook.cs">
+    <Files>
+      <File FileName="Assets/FPSInput.cs" Line="23" Column="1" />
+      <File FileName="Assets/MouseLook.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="The last Ogre 2" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="MouseLook.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="The last Ogre 2" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="43a55672-9bf9-4f23-b9b0-ded40c18d49b" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
